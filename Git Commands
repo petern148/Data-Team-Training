@@ -1,0 +1,36 @@
+yay, git!
+
+git init
+    creates repo
+git status
+    show's repo status
+git add .<file>
+    add file for commit changes
+git commit -m 'message status'
+    commits a message when saving in git
+git diff
+    checks differences
+
+git log (history)
+git help/ help <command>
+git checkout <file>
+    after saving a file and not liking the changes,
+    type git checkout and it will erase
+
+Projects:
+after forking from the main branch, copy the link of your version of the repo
+git clone "copied link" on the ide, locate the folder that was downloaded
+git push
+create a new pull request once it's uploaded
+
+git remote v-
+list channels linked to
+
+git remote add upstream <link>
+links to the channel you'd want
+
+git pull upstream master
+livefeed updates to the ide
+
+git pull
+pull changes from github, but only if you're the master
